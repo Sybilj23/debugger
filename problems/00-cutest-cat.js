@@ -1,7 +1,7 @@
 /*
 
 Fix the `cutestCat` function. Should return the cat with the highest `cuteness`
-rating.
+rating. Test
 */
 
 function cutestCat(cats) {
